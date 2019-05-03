@@ -1,0 +1,97 @@
+{
+    "kidsup": {
+        "top": [
+            {
+                "eventId": "3d09a831",
+                "eventDisplayTypeThird": "is-one-third",
+                "eventTime": "09:30",
+                "eventCategory": "外国語",
+                "eventTitle": "Easter Party！（イースターパーティー）",
+                "eventDateTime": "5月18日 9時30分",
+                "eventPrice": "2,000円",
+                "eventPlace": "門前仲町",
+                "eventMinAge": "3",
+                "eventPathName": "KidsUP0930"
+            },
+            {
+                "eventId": "b79e96bc",
+                "eventDisplayTypeThird": "is-one-third",
+                "eventTime": "11:30",
+                "eventCategory": "外国語",
+                "eventTitle": "Easter Party！（イースターパーティー）",
+                "eventDateTime": "5月18日 11時00分",
+                "eventPrice": "2,000円",
+                "eventPlace": "門前仲町",
+                "eventMinAge": "3",
+                "eventPathName": "KidsUP1100"
+            },
+            {
+                "eventId": "2ddd04b9",
+                "eventDisplayTypeThird": "is-one-third",
+                "eventTime": "14:00",
+                "eventCategory": "外国語",
+                "eventTitle": "Easter Party！（イースターパーティー）",
+                "eventDateTime": "5月18日 14時00分",
+                "eventPrice": "2,000円",
+                "eventPlace": "門前仲町",
+                "eventMinAge": "3",
+                "eventPathName": "KidsUP1400"
+            },
+            {
+                "eventId": "63310288",
+                "eventDisplayTypeThird": "is-one-third",
+                "eventTime": "16:00",
+                "eventCategory": "外国語",
+                "eventTitle": "Easter Party！（イースターパーティー）",
+                "eventDateTime": "5月18日 16時00分",
+                "eventPrice": "2,000円",
+                "eventPlace": "門前仲町",
+                "eventMinAge": "3",
+                "eventPathName": "KidsUP1600"
+            }
+        ],
+        "detail": [
+            {
+                "eventId": "3d09a831",
+                "schoolName": "Kids UP 門前仲町校",
+                "eventTitle": "Easter Party！（イースターパーティー）",
+                "eventCity": "門前仲町",
+                "eventDateTime": "5月18日 9時30分",
+                "handing": "上履き",
+                "eventTargetMinAge": "3",
+                "eventTargetMaxAge": "12",
+                "pr": "大人気の週末イベント！Kids UPのイースターパーティー",
+                "schoolAbout": "対象年齢 3才から小6までの英語で学童保育・プリスクール\\n\\nKidsUP（キッズアップ）は、まだまだ新しい英語体験型のプリスクール・学童保育です。\\n学童保育（小1～小6）、プリスクール（3歳～６歳）を中心に、長時間、完全な英語環境を提供します。\\n3時間半～7時間、まさに留学をしているかの様な環境の中、最新のプログラムを使用して「楽しく」「効果的」にお子様の英語力・知的好奇心を徹底的に伸ばします。\\n\\nこどもたちが扉を開ければその先は、ネイティブたちと仲間たちが待っています。\\n英語を身につけるのに最適な年齢にあるお子様達に、ぜひ最適な環境を体験させてあげてください。",
+                "contents": "イースターにちなんだ、楽しいEnglishアクティビティをご用意しました！\\n楽しいゲームに、クラフト作り、そして、「魔法のマシュマロ」を作りますよ♪\\nキラキラ、ワクワクする時間を一緒に過ごしましょう！",
+                "address": "東京都江東区富岡1-18-15大島ビル 2F",
+                "price": "2,000",
+                "planning": {
+                    "type": "同日開催",
+                    "plan": [
+                        {
+                            "dateTime": "5月18日",
+                            "startedAt": "11時30分",
+                            "expiredAt": "13時00分",
+                            "price": "2,000"
+                        },
+                        {
+                            "dateTime": "5月18日",
+                            "startedAt": "14時00分",
+                            "expiredAt": "15時30分",
+                            "price": "2,000"
+                        },
+                        {
+                            "dateTime": "5月18日",
+                            "startedAt": "16時00分",
+                            "expiredAt": "17時30分",
+                            "price": "2,000"
+                        }
+                    ]
+                },
+                "cancelPolicy": "直接スクールにご相談ください。",
+                "schoolTel": "03-5875-9836",
+                "applyFormUrl": "https://forms.gle/J6BCSbeERR6Z1Hb9A"
+            }
+        ]
+    }
+}
